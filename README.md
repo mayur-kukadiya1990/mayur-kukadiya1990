@@ -1,10 +1,11 @@
 <h1>Hi, I'm Mayur Kukadiya 👋🏼 👨🏻‍💻</h1>
 
-I'm a Expert Full Stack Developer with over 8 years of experience.I specialize in Laravel, VueJS, Codegniter
+I'm a <b> Full Stack Web Developer</b>  🤓 | <b>Laravel Developer</b> 👨🏻‍💻 | <b>Codeigniter Developer</b> 🧐  | <b>Vue.js</b> 🐍 |  <b>Competitive Programmer</b>🤠. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> in a Dynamic Environment. 🧑🏻
 
-Here is the list of what I can do for your business:
-
-- Websites from scratch on Laravel, Codegniter, Mysql
-- Website migration from one platform to another
-- Long-term website support
-- Create custom web application | SPA
+- 🔭 I’m currently working as Freelancer 💻
+- 🌱 I’m currently working Laravel,Vue,Codeigniter
+- 👯 I’m looking to collaborate on any cool Project
+- 🤔 I’m looking for help with Open Source Project Development 
+- 📫 You can reach at: mayur.kukadiya1990@gmail.com 
+- ⚡ Fun fact: Caffeine helps me Code.. ☕
+- 🎆 I'm Open for New Opportunities.
